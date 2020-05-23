@@ -1,0 +1,3 @@
+window.onLOad = () => {
+	alert("success !!")
+}
